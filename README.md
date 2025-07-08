@@ -1,2 +1,3 @@
 # GoogleTranslate
-Building Google Translator with Sequence to Sequence Models....!
+
+Building Mini Google Translator with Sequence to Sequence Models....!
